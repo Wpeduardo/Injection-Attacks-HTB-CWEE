@@ -12,3 +12,7 @@
 3. Poc: Automating Attack Data Exfiltration & Blind Exploitation
 
 ![Imagen](Imagenes/Imagen4.png)
+
+4. Poc: Automating Skill Assessment
+
+![Imagen](Imagenes/Imagen5.png)
