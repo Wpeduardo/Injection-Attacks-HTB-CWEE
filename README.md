@@ -1,5 +1,5 @@
 # Injection-Attacks-HTB-CWEE
-1. PoC: Automating Attacl XPath - Advanced Data Exfiltration
+1. PoC: Automating Attack XPath - Advanced Data Exfiltration
 
 ![Imagen](Imagenes/Imagen1.jpeg)
 
